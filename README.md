@@ -21,6 +21,7 @@ To compile the project yourself, you can use `gcc` or any standard C compiler. N
 
 ```bash
 gcc main.c -o pack
+```
 Usage
 You can use pack in two ways: via Command-Line Interface (CLI) or through its Interactive Shell.
 
